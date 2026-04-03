@@ -1,4 +1,4 @@
-# Hi, I'm Jordan 👋
+# Hi, I'm Jordan 👋🏾
 
 CS student @ San Diego Mesa College → University of Michigan (Fall 2026)  
 Expected Graduation: 2028  
