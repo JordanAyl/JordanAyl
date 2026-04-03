@@ -9,7 +9,8 @@ Backend-focused developer building API-driven and data systems.
 
 ## 🚀 Projects
 
-### 📊 Verdict — Stock Intelligence Platform
+### 📊 Verdict — Stock Intelligence Platform 
+(private repo — demo/code available upon request)
 - Multi-agent system analyzing Reddit sentiment, stock pricing, and news
 - FastAPI backend orchestrating concurrent agents
 - Real-time dashboard displaying synthesized insights
@@ -18,6 +19,12 @@ Backend-focused developer building API-driven and data systems.
 - Financial planning tool for GI Bill & housing allowance projections
 - Built with FastAPI, Streamlit, and Pandas
 - Simulates multi-semester benefit usage scenarios
+
+### 💻 Expense Tracker (C++ / Qt)
+- Desktop application for tracking and categorizing personal expenses
+- Built with Qt using event-driven architecture (signals & slots)
+- Implements persistent storage via file I/O
+- Supports transaction logging, categorization, and budget export
 
 ---
 
