@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Jordan%20Ayling&fontSize=50&animation=fadeIn)
-# Hi, I'm Jordan ![waving hand](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+# Hi, I'm Jordan 👋🏾
 
 CS student @ San Diego Mesa College → University of Michigan (Fall 2026)  
 Expected Graduation: 2028  
