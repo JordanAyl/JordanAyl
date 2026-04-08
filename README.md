@@ -9,11 +9,13 @@ Backend-focused developer building API-driven and data systems.
 
 ## 🚀 Projects
 
-### 📊 Verdict — Stock Intelligence Platform 
-(private repo — demo/code available upon request)
-- Multi-agent system analyzing Reddit sentiment, stock pricing, and news
-- FastAPI backend orchestrating concurrent agents
-- Real-time dashboard displaying synthesized insights
+### 🏕️ [Campion](https://devpost.com/software/campian) — AI Dispersed Camping Research Agent
+(🏆 Best UI/UX — DiamondHacks 2026 | collaborated repo — [view on GitHub](https://github.com/Hyungjoonbae-01/DiamondHacks))
+- Multi-agent system deploying parallel Browser Use cloud agents across topographic data, Reddit, and camping resources
+- RAG pipeline grounding a topographical agent in real-world geodata to surface genuinely undiscovered campsites
+- FastAPI backend orchestrating concurrent specialized agents with tuned prompt design and timeout management
+- Interactive Mapbox map displaying synthesized campsite recommendations for visual exploration and comparison
+- **Stack:** Python, FastAPI, Browser Use, Mapbox, React 19, Vite, Tailwind CSS 4, Pydantic, Uvicorn
 
 ### 🎓 Veteran Benefits Forecaster
 - Financial planning tool for GI Bill & housing allowance projections
