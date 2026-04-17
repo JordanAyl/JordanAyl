@@ -18,16 +18,12 @@ Backend-focused developer building API-driven and data systems.
 - Interactive Mapbox map displaying synthesized campsite recommendations for visual exploration and comparison
 - **Stack:** Python, FastAPI, Browser Use, Mapbox, React 19, Vite, Tailwind CSS 4, Pydantic, Uvicorn
 
-### 📊 Verdict — Stock Intelligence Platform 
-[view on GitHub](https://github.com/JordanAyl/stock-intelligence-platform)
-
+### 📊 Verdict — Stock Intelligence Platform — [view on GitHub](https://github.com/JordanAyl/stock-intelligence-platform)
 - Multi-agent system analyzing Reddit sentiment, stock pricing, and news
 - FastAPI backend orchestrating concurrent agents
 - Real-time dashboard displaying synthesized insights
 
-### 🎓 Veteran Benefits Forecaster 
-[view on GitHub](https://github.com/JordanAyl/veteran-benefits-forecaster)
-
+### 🎓 Veteran Benefits Forecaster — [view on GitHub](https://github.com/JordanAyl/veteran-benefits-forecaster)
 - Financial planning tool for GI Bill & housing allowance projections
 - Built with FastAPI, Streamlit, and Pandas
 - Simulates multi-semester benefit usage scenarios
@@ -35,14 +31,12 @@ Live Url: https://educationbenefitplanner.streamlit.app/
 
 ### 🏫 Room Reservation System — San Diego Mesa College | In Progress
 Backend Developer · Java · Spring Boot · Supabase · PostgreSQL · React
-
 - RESTful API layer for room booking and availability management at San Diego Mesa College
 - Designed and implemented backend endpoints with Spring Boot and PostgreSQL via Supabase
 - Handles reservation scheduling, conflict resolution, and business logic for a 6-person team
 
-###💰 Personal Finance Tracker 
-Solo Developer · C++ · Qt Framework [view on GitHub](https://github.com/JordanAyl/QtBudgetApp)
-
+### 💰 Personal Finance Tracker 
+C++ · Qt Framework [view on GitHub](https://github.com/JordanAyl/QtBudgetApp)
 -Desktop application with a 3-tab interface for tracking savings, expenses, and financial summaries
 -Implements file I/O to save and load user financial data locally
 -Built with Qt Widgets for a native cross-platform desktop experience
