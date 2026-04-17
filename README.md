@@ -29,7 +29,7 @@ FastAPI · Streamlit · Pandas · Altair
 - Financial planning tool for GI Bill & housing allowance projections
 - Built with FastAPI, Streamlit, and Pandas
 - Simulates multi-semester benefit usage scenarios
-Live Url: https://educationbenefitplanner.streamlit.app/
+- Live Url: https://educationbenefitplanner.streamlit.app/
 
 ### 🏫 Room Reservation System — San Diego Mesa College | In Progress - [view on GitHub](https://github.com/alex0091845/ReservationSystem-SDMesaCollegeBT)
 Backend Developer · Java · Spring Boot · Supabase · PostgreSQL · React
