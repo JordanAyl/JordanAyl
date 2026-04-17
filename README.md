@@ -30,13 +30,13 @@ Backend-focused developer building API-driven and data systems.
 Live Url: https://educationbenefitplanner.streamlit.app/
 
 ### 🏫 Room Reservation System — San Diego Mesa College | In Progress
-Backend Developer · Java · Spring Boot · Supabase · PostgreSQL · React
+(Backend Developer · Java · Spring Boot · Supabase · PostgreSQL · React)
 - RESTful API layer for room booking and availability management at San Diego Mesa College
 - Designed and implemented backend endpoints with Spring Boot and PostgreSQL via Supabase
 - Handles reservation scheduling, conflict resolution, and business logic for a 6-person team
 
-### 💰 Personal Finance Tracker 
-C++ · Qt Framework [view on GitHub](https://github.com/JordanAyl/QtBudgetApp)
+### 💰 Personal Finance Tracker — [view on GitHub](https://github.com/JordanAyl/QtBudgetApp)
+(C++ · Qt Framework) 
 -Desktop application with a 3-tab interface for tracking savings, expenses, and financial summaries
 -Implements file I/O to save and load user financial data locally
 -Built with Qt Widgets for a native cross-platform desktop experience
