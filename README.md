@@ -32,9 +32,9 @@ FastAPI · Streamlit · Pandas · Altair
 - Live Url: https://educationbenefitplanner.streamlit.app/
 
 ### 🏫 Room Reservation System — San Diego Mesa College | In Progress - [view on GitHub](https://github.com/alex0091845/ReservationSystem-SDMesaCollegeBT)
-Backend Developer · Java · Spring Boot · Supabase · PostgreSQL · React
+Backend Developer · Java · Spring Boot · AWS RDS · AWS S3·EC2 · PostgreSQL · React
 - RESTful API layer for room booking and availability management at San Diego Mesa College
-- Designed and implemented backend endpoints with Spring Boot and PostgreSQL via Supabase
+- Designed and implemented backend endpoints with Spring Boot and PostgreSQL via AWS RDS; deployed application on EC2 with static assets hosted on S3
 - Handles reservation scheduling, conflict resolution, and business logic for a 6-person team
 
 ### 💰 Personal Finance Tracker — [view on GitHub](https://github.com/JordanAyl/QtBudgetApp)
