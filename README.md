@@ -18,12 +18,6 @@ Backend-focused developer building API-driven and data systems.
 - Interactive Mapbox map displaying synthesized campsite recommendations for visual exploration and comparison
 - **Stack:** Python, FastAPI, Browser Use, Mapbox, React 19, Vite, Tailwind CSS 4, Pydantic, Uvicorn
 
-### 📊 Verdict — Stock Intelligence Platform — [view on GitHub](https://github.com/JordanAyl/stock-intelligence-platform)
-Python · FastAPI · Browser Use
-- Multi-agent system analyzing Reddit sentiment, stock pricing, and news
-- FastAPI backend orchestrating concurrent agents
-- Real-time dashboard displaying synthesized insights
-
 ### 🎓 Veteran Benefits Forecaster — [view on GitHub](https://github.com/JordanAyl/veteran-benefits-forecaster)
 FastAPI · Streamlit · Pandas · Altair
 - Financial planning tool for GI Bill & housing allowance projections
