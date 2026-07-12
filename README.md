@@ -18,20 +18,20 @@ Backend-focused developer building API-driven and data systems.
 - Interactive Mapbox map displaying synthesized campsite recommendations for visual exploration and comparison
 - **Stack:** Python, FastAPI, Browser Use, Mapbox, React 19, Vite, Tailwind CSS 4, Pydantic, Uvicorn
 
-### 🎓 Veteran Benefits Forecaster — [view on GitHub](https://github.com/JordanAyl/veteran-benefits-forecaster)
+### Veteran Benefits Forecaster — [view on GitHub](https://github.com/JordanAyl/veteran-benefits-forecaster)
 FastAPI · Streamlit · Pandas · Altair
 - Financial planning tool for GI Bill & housing allowance projections
 - Built with FastAPI, Streamlit, and Pandas
 - Simulates multi-semester benefit usage scenarios
 - Live Url: https://educationbenefitplanner.streamlit.app/
 
-### 🏫 Room Reservation System — San Diego Mesa College | In Progress - [view on GitHub](https://github.com/alex0091845/ReservationSystem-SDMesaCollegeBT)
+### Room Reservation System — San Diego Mesa College | In Progress - [view on GitHub](https://github.com/alex0091845/ReservationSystem-SDMesaCollegeBT)
 Backend Developer · Java · Spring Boot · AWS RDS · AWS S3·EC2 · PostgreSQL · React
 - RESTful API layer for room booking and availability management at San Diego Mesa College
 - Designed and implemented backend endpoints with Spring Boot and PostgreSQL via AWS RDS; deployed application on EC2 with static assets hosted on S3
 - Handles reservation scheduling, conflict resolution, and business logic for a 6-person team
 
-### 💰 Personal Finance Tracker — [view on GitHub](https://github.com/JordanAyl/QtBudgetApp)
+### Personal Finance Tracker — [view on GitHub](https://github.com/JordanAyl/QtBudgetApp)
 C++ · Qt Framework 
 - Desktop application with a 3-tab interface for tracking savings, expenses, and financial summaries
 - Implements file I/O to save and load user financial data locally
