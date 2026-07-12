@@ -37,6 +37,23 @@ C++ · Qt Framework
 - Implements file I/O to save and load user financial data locally
 - Built with Qt Widgets for a native cross-platform desktop experience
 
+## 🤖 Hardware Projects
+
+### Dispatch - Wild Fire Prevention Mesh Network
+FastAPI · C++ · Pydantic · Arduino Uno Q 4GB
+- Sensors: Camera, Soil Moisture, Temperature, BT and Wifi Connection
+- Used automospheric data to give early indications and warnings of wild fire prone areas.
+- Connected to other nodes to create a network that was efficient and cost efficient.
+- Connected to HQ where data ingestion would give warnings and indications of what areas
+- Used camera to identify smoke ahead of any other possible fire prevention systems
+
+### BMO - Wellness Desk Bot and Study Companion
+FastAPI · C++ · Pandas · Raspberry Pi 5 8GB 
+- Robot 3D print with pi camera, mic, and screen.
+- Voice to Text to LLM for desk AI bot.
+- Used Analytics and Journaling with conection of health applications to evauluate better routines providing user with
+- User information saved in a database to be used analytically to a user dashboard.
+- Information can be fetched and spoken to user to create productive health habits.
 ---
 
 ## 🛠 Tech Stack
