@@ -39,7 +39,7 @@ C++ · Qt Framework
 
 ## 🤖 Hardware Projects
 
-### Dispatch [Dispatch](https://devpost.com/software/dispatch-ruzp6e) - Wild Fire Prevention Mesh Network
+### [Dispatch](https://devpost.com/software/dispatch-ruzp6e) - Wild Fire Prevention Mesh Network
 FastAPI · C++ · Pydantic · Arduino Uno Q 4GB
 - Sensors: Camera, Soil Moisture, Temperature, BT and Wifi Connection
 - Used automospheric data to give early indications and warnings of wild fire prone areas.
