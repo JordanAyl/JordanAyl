@@ -41,6 +41,7 @@ C++ · Qt Framework
 
 ### [Dispatch](https://devpost.com/software/dispatch-ruzp6e) - Wild Fire Prevention Mesh Network
 FastAPI · C++ · Pydantic · Arduino Uno Q 4GB
+| Submitted to UCSD's DataHacks 2026 |
 - Sensors: Camera, Soil Moisture, Temperature, BT and Wifi Connection
 - Used automospheric data to give early indications and warnings of wild fire prone areas.
 - Connected to other nodes to create a network that was efficient and cost efficient.
