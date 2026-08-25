@@ -8,7 +8,7 @@ Backend-focused developer building API-driven and data systems.
 
 ---
 
-## 🚀 Projects
+## 🚀 Software Projects
 
 ### 🏕️ [Campion](https://devpost.com/software/campian) - AI Dispersed Camping Research Agent — [view on GitHub](https://github.com/JordanAyl/Campion)
 | 🏆 Best UI/UX — DiamondHacks 2026 | 
