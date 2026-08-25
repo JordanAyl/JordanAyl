@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Jordan%20Ayling&fontSize=50&animation=fadeIn)
-# Hi, I'm Jordan 👋🏾type=waving
+# Hi, I'm Jordan 👋🏾
 
 CS student @ University of Michigan
 
