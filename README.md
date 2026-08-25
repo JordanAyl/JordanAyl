@@ -2,6 +2,7 @@
 # Hi, I'm Jordan 👋🏾
 
 CS student @ University of Michigan
+
 Expected Graduation: 2028  
 
 Backend-focused developer building API-driven and data systems.
