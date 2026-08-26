@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Jordan%20Ayling&reversal=false&section=header&animation=blink)
 # Hi, I'm Jordan 👋🏾
 
-CS student @ University of Michigan
+CS student @ University of Michigan and Navy Veteran
 
 Expected Graduation: 2028  
 
